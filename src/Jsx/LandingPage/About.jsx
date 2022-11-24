@@ -256,7 +256,7 @@ const About = () => {
                           className="Sent_input"
                           animate={controls16}
                         >
-                          Something went wrongg
+                          Something went wrong
                         </motion.div>
                       )}
                     </div>
