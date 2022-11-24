@@ -156,7 +156,7 @@ const LandingPage = () => {
               <h1>Belamri Islam</h1>
             </div>
             <p>Front-end Developer</p>
-            <Link to="/About">
+            <Link to="./About">
               <div
                 onClick={() => {
                   setAbout(true);
@@ -180,7 +180,15 @@ const LandingPage = () => {
             className="Svg"
             animate={controls3}
           >
-            <h2>social</h2>
+            <div className="SOCIAL_row">
+              <span>S</span>
+              <span>O</span>
+              <span>C</span>
+              <span>I</span>
+              <span>A</span>
+              <span>L</span>
+              <span>S</span>
+            </div>
             <div class="btn-groupmid">
               <a target="_blank" class="btnmidd">
                 <span className="Spann"></span>

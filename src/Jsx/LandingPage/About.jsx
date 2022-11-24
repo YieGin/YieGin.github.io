@@ -127,10 +127,10 @@ const About = () => {
               <span className="Spann"></span>
               <span className="Spann"></span>
               <div className="About_left_div">
-                <h1>About Me.</h1>
+                <h1>About Me</h1>
                 <h5> Front-end developer</h5>
                 <p>
-                  I'M <span className="spannn">BELAMRI ISLAM </span> , AN
+                  I'M <span className="spannn">BELAMRI ISLAM</span>, AN
                   EXPERIENCED FRONT-END DEVELOPER FROM ALGERIA. I'M PASSIONATE
                   ABOUT CREATING INTRICATE DESIGN USING HTML & CSS AS WELL AS
                   POWERING MY WEBSITES WITH REACT FOR OVER 7 MONTHS. I ENJOY
@@ -161,6 +161,20 @@ const About = () => {
               <>
                 <div className="Main_email">
                   <form className="Form" ref={form} onSubmit={sendEmail}>
+                    <Link to="/">
+                      <svg
+                        className="about_svg"
+                        xmlns="http://www.w3.org/2000/svg"
+                        viewBox="0 0 24 24"
+                        width="34"
+                        height="34"
+                      >
+                        <path
+                          fill-rule="evenodd"
+                          d="M5.72 5.72a.75.75 0 011.06 0L12 10.94l5.22-5.22a.75.75 0 111.06 1.06L13.06 12l5.22 5.22a.75.75 0 11-1.06 1.06L12 13.06l-5.22 5.22a.75.75 0 01-1.06-1.06L10.94 12 5.72 6.78a.75.75 0 010-1.06z"
+                        ></path>
+                      </svg>
+                    </Link>
                     <div className="Emailtext">
                       <h1>Get In Touch</h1>
                       <p>

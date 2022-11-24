@@ -138,7 +138,7 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
                     <span></span>
                     <span></span>
                     <span></span>
-                    Check website
+                    View Website
                   </a>
                 </div>
                 <a
@@ -183,7 +183,7 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
                     <span></span>
                     <span></span>
                     <span></span>
-                    Check website
+                    View Website
                   </a>
                 </div>
                 <a
@@ -228,7 +228,7 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
                     <span></span>
                     <span></span>
                     <span></span>
-                    Check website
+                    View Website
                   </a>
                 </div>
                 <a target="_blank" href="https://github.com/YieGin/Twitch_2.0">
@@ -270,7 +270,7 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
                     <span></span>
                     <span></span>
                     <span></span>
-                    Check website
+                    View Website
                   </a>
                 </div>
                 <a
@@ -315,7 +315,7 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
                     <span></span>
                     <span></span>
                     <span></span>
-                    Check website
+                    View Website
                   </a>
                 </div>
                 <a

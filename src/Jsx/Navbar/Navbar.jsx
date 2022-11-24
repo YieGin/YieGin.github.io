@@ -113,9 +113,36 @@ const Navbar = () => {
             <div className="qsdsqq"></div>
           </div>
           <div className="Humberger_open1">
-            <h1 className="Text-inside">Work</h1>
-            <h1 className="Text-inside">Experiments</h1>
-            <h1 className="Text-inside">Contact</h1>
+            <a href="#case">
+              <h1
+                onClick={() => {
+                  setHumberger_mune(false);
+                }}
+                className="Text-inside"
+              >
+                Work
+              </h1>
+            </a>
+            <a href="#hire">
+              <h1
+                onClick={() => {
+                  setHumberger_mune(false);
+                }}
+                className="Text-inside"
+              >
+                HIRE ME
+              </h1>
+            </a>
+            <Link to="./About">
+              <h1
+                onClick={() => {
+                  setHumberger_mune(false);
+                }}
+                className="Text-inside"
+              >
+                Contact
+              </h1>
+            </Link>
           </div>
         </motion.div>
       )}
