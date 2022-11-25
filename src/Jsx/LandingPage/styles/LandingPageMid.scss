@@ -310,6 +310,18 @@
   .btn-group15 {
     margin: 5px;
   }
+  .Sent_input {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    color: #996515;
+    position: relative;
+    right: 210px;
+    font-size: 14px;
+    transition: all 1s cubic-bezier(.29,.04,.52,1);
+  }
   .btn15 {
     font-size: 11px;
     padding: 0;
