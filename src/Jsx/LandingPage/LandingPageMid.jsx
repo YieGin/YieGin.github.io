@@ -128,8 +128,8 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
               <h1 className="Page6_Text">LAMBORGHINI</h1>
               <h4 className="Clone">CLONE</h4>
               <p className="Page6_Text-Bigger">
-                Featuring a clean responsive showcase website Built to appeal to
-                high-end customers
+                An example of responsive website appealing to high-end customers
+                been done for a purpose of skill showcase
               </p>
               <div className="Check_box">
                 <div class="btn-group15">
@@ -177,8 +177,8 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
               <h1 className="Page6_Text">SUPER DRY</h1>
               <h4 className="Clone">CLONE</h4>
               <p className="Page6_Text-Bigger">
-                Featuring a clean responsive showcase website Built to appeal to
-                high-end customers
+                An example of responsive website appealing to high-end customers
+                been done for a purpose of skill showcase
               </p>
               <div className="Check_box">
                 <div class="btn-group15">
@@ -226,8 +226,9 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
               <h1 className="Page6_Text">TWITCH</h1>
               <h4 className="Clone">CLONE</h4>
               <p className="Page6_Text-Bigger">
-                Featuring a clean responsive showcase website Built to appeal to
-                high-end customers
+                Due to technical limitations of GitHub pages, this example site
+                is working partially, you may check the code to see work done by
+                me
               </p>
               <div className="Check_box">
                 <div class="btn-group15">
@@ -272,8 +273,8 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
               <h1 className="Page6_Text">COSMETICS SHOP</h1>
               <h4 className="Clone">CLONE</h4>
               <p className="Page6_Text-Bigger">
-                Featuring a clean responsive showcase website Built to appeal to
-                high-end customers
+                An example of responsive website appealing to high-end customers
+                been done for a purpose of skill showcase
               </p>
               <div className="Check_box">
                 <div class="btn-group15">
@@ -321,8 +322,8 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
               <h1 className="Page6_Text">INSTAGRAM</h1>
               <h4 className="Clone">CLONE</h4>
               <p className="Page6_Text-Bigger">
-                Featuring a clean responsive showcase website Built to appeal to
-                high-end customers
+                An example of responsive website appealing to high-end customers
+                been done for a purpose of skill showcase
               </p>
               <div className="Check_box">
                 <div class="btn-group15">

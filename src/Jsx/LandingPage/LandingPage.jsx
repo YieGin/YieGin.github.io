@@ -181,13 +181,7 @@ const LandingPage = () => {
             animate={controls3}
           >
             <div className="SOCIAL_row">
-              <span>S</span>
-              <span>O</span>
-              <span>C</span>
-              <span>I</span>
-              <span>A</span>
-              <span>L</span>
-              <span>S</span>
+              <a id="rotate"> SOCIALS </a>
             </div>
             <div class="btn-groupmid">
               <a target="_blank" class="btnmidd">
