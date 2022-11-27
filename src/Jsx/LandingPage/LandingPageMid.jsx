@@ -133,7 +133,11 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
               </p>
               <div className="Check_box">
                 <div class="btn-group15">
-                  <a class="btn15">
+                  <a
+                    target="_blank"
+                    href="https://yiegin.github.io/lamborghini_2.0/"
+                    class="btn15"
+                  >
                     <span></span>
                     <span></span>
                     <span></span>
@@ -178,7 +182,11 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
               </p>
               <div className="Check_box">
                 <div class="btn-group15">
-                  <a class="btn15">
+                  <a
+                    target="_blank"
+                    href="https://yiegin.github.io/shopping-Website/"
+                    class="btn15"
+                  >
                     <span></span>
                     <span></span>
                     <span></span>
@@ -223,7 +231,11 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
               </p>
               <div className="Check_box">
                 <div class="btn-group15">
-                  <a class="btn15">
+                  <a
+                    target="_blank"
+                    href="https://yiegin.github.io/Twitch_2.0/"
+                    class="btn15"
+                  >
                     <span></span>
                     <span></span>
                     <span></span>
@@ -265,7 +277,11 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
               </p>
               <div className="Check_box">
                 <div class="btn-group15">
-                  <a class="btn15">
+                  <a
+                    target="_blank"
+                    href="https://yiegin.github.io/Shopping-website_2/"
+                    class="btn15"
+                  >
                     <span></span>
                     <span></span>
                     <span></span>
@@ -310,7 +326,11 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
               </p>
               <div className="Check_box">
                 <div class="btn-group15">
-                  <a class="btn15">
+                  <a
+                    target="_blank"
+                    href="https://yiegin.github.io/Instagram-_2.0/"
+                    class="btn15"
+                  >
                     <span></span>
                     <span></span>
                     <span></span>
