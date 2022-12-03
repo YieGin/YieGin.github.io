@@ -344,7 +344,7 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
                 <span className="Spann"></span>
                 <span className="Spann"></span>
                 <div className="About_left_div">
-                  <h1>About Me.</h1>
+                  <h1>About Me</h1>
                   <h5> Front-end developer</h5>
                   <p>
                     I'M <span className="spannn">BELAMRI ISLAM</span>, AN
