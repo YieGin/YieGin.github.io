@@ -347,17 +347,17 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
                   <h1>About Me.</h1>
                   <h5> Front-end developer</h5>
                   <p>
-                    I'M <span className="spannn">BELAMRI ISLAM</span> , AN
-                    EXPERIENCED FRONT-END DEVELOPER FROM ALGERIA. PASSIONATE
-                    ABOUT CREATING INTRICATE DESIGN USING HTML & CSS AS WELL AS
-                    POWERING MY WEBSITES WITH REACT FOR OVER 7 MONTHS. I ENJOY
-                    SOLVING DESIGN PROBLEMS BY UTILIZING MY CREATIVITY IN
-                    SIMPLE, YET ELEGANT SOLUTIONS THAT ENHANCE THE USER'S
-                    EXPERIENCE. THE CHALLENGE OF CREATING DESIGNS IS SOMETHING
-                    THAT I GENUINELY ENJOY. AND OFCOURSE, I AM INCREDIBLY
-                    COMPETITIVE AND DRIVEN AT
-                    <span className="spannn"> work</span> and in my personal
-                    life.
+                    I'M <span className="spannn">BELAMRI ISLAM</span>, AN
+                    EXPERIENCED FRONT-END DEVELOPER FROM ALGERIA. I'M PASSIONATE
+                    ABOUT CREATING INTRICATE DESIGN USING HTML/HTML5 & CSS AS
+                    WELL AS POWERING MY WEBSITES WITH JAVASCRIPT/REACT FOR OVER
+                    1 YEAR, I ELSE KNOW SOME OF TYPESCRIPT. I ENJOY SOLVING
+                    DESIGN PROBLEMS BY UTILIZING MY CREATIVITY IN SIMPLE, YET
+                    ELEGANT SOLUTIONS THAT ENHANCE THE USER'S EXPERIENCE. THE
+                    CHALLENGE OF CREATING DESIGNS IS SOMETHING THAT I GENUINELY
+                    ENJOY. AND OF COURSE, I AM INCREDIBLY
+                    <span className="spannn"> COMPETITIVE</span> AND DRIVEN AT
+                    WORK AND IN MY PERSONAL LIFE.
                   </p>
                 </div>
               </a>
