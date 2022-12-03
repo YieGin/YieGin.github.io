@@ -128,7 +128,7 @@ const About = () => {
               <span className="Spann"></span>
               <div className="About_left_div">
                 <h1>About Me</h1>
-                <h5> Front-end developer</h5>
+                <h5>Front-end developer</h5>
                 <p>
                   I'M <span className="spannn">BELAMRI ISLAM</span>, AN
                   EXPERIENCED FRONT-END DEVELOPER FROM ALGERIA. I'M PASSIONATE
