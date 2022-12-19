@@ -115,7 +115,51 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
         <h1> RECENT PROJECTS</h1>
       </div>
       <div className="GapWork">
-        <h1>dsqdsqdsqdsqd</h1>
+        <motion.div
+          ref={ref10}
+          variants={textScrollVariantss}
+          initial="hidden"
+          className="ImagePage6_text"
+          animate={controls10}
+        >
+          <figure class="snip1401">
+            <img className="ImagePage7" src={Image9} alt="" />
+            <figcaption className="Figcaption">
+              <h1 className="Page6_Text">TOURNAMENT</h1>
+              <p className="Page6_Text-Bigger">
+                An example of responsive website appealing to high-end customers
+                been done for a purpose of skill showcase
+              </p>
+              <div className="Check_box">
+                <div class="btn-group15">
+                  <a
+                    target="_blank"
+                    href="https://yiegin.github.io/lamborghini_2.0/"
+                    class="btn15"
+                  >
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    View Website
+                  </a>
+                </div>
+                <a target="_blank" href="https://github.com/YieGin/Tournaments">
+                  <div class="btn-group15">
+                    <a class="btn15">
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      Check code
+                    </a>
+                  </div>
+                </a>
+              </div>
+            </figcaption>
+            <i class="ion-ios-home-outline"></i>
+          </figure>
+        </motion.div>
         <motion.div
           ref={ref10}
           variants={textScrollVariantss}
