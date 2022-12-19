@@ -36,6 +36,9 @@ const LandingPageMid = () => {
   const controls14 = useAnimation();
   const [ref14, inView14] = useInView();
 
+  const controls15 = useAnimation();
+  const [ref15, inView15] = useInView();
+
   useEffect(() => {
     if (inView10) {
       controls10.start("visible");
@@ -65,6 +68,12 @@ const LandingPageMid = () => {
       controls14.start("visible");
     }
   }, [controls14, inView14]);
+
+  useEffect(() => {
+    if (inView15) {
+      controls15.start("visible");
+    }
+  }, [controls15, inView15]);
 
   return (
     <div className="Container_mid">
@@ -116,11 +125,11 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
       </div>
       <div className="GapWork">
         <motion.div
-          ref={ref10}
+          ref={ref15}
           variants={textScrollVariantss}
           initial="hidden"
-          className="ImagePage6_text"
-          animate={controls10}
+          className="ImagePage6_text2"
+          animate={controls15}
         >
           <figure class="snip1401">
             <img className="ImagePage7" src={Image9} alt="" />
