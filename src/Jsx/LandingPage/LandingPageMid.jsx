@@ -134,7 +134,7 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
           <figure class="snip1401">
             <img className="ImagePage7" src={Image9} alt="" />
             <figcaption className="Figcaption">
-              <h1 className="Page6_Text">TOURNAMENT</h1>
+              <h1 className="Page6_Text">TOURNAMENTS</h1>
               <p className="Page6_Text-Bigger">
                 An example of responsive website appealing to high-end customers
                 been done for a purpose of skill showcase
