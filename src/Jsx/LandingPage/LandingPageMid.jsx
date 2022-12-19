@@ -143,7 +143,7 @@ c-341 -385 -793 -890 -1235 -1379 -423 -468 -480 -529 -490 -533 -25 -9 -1715
                 <div class="btn-group15">
                   <a
                     target="_blank"
-                    href="https://yiegin.github.io/lamborghini_2.0/"
+                    href="https://yiegin.github.io/Tournaments/"
                     class="btn15"
                   >
                     <span></span>
